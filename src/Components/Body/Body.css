@@ -1,0 +1,28 @@
+.Main{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    height: 500px;
+    margin-top: 20px;
+}
+
+.Mainleft{
+    width: 50%;
+    height: 500px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.Mainright{
+    box-sizing: border-box;
+    width: 50%;
+}
+
+button{
+    padding: 10px;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}

@@ -1,0 +1,37 @@
+.Navbar{
+    width: 100%;
+    background-color: rgb(243, 151, 118);
+    display: flex;
+    cursor: pointer;
+}
+.flexC{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    width: 40%;
+    color: black;
+}
+
+a{
+    color: black;
+    margin-right: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.menu{
+    width: 30%;
+}
+
+.logo{
+    width: 30%;
+}
+
+i {
+    color: black;
+    margin-right: 30px;
+    font-size: 40px;
+}
